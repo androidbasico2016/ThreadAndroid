@@ -27,6 +27,7 @@ import android.widget.Toast;
 //cmentario wilder
 
 
+//cometario tabo6
 public class MainActivity extends AppCompatActivity {
 
     public static final int INCREMENTO = 10;
