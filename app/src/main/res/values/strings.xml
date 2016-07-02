@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ThreadAndroid</string>
+    <string name="detener1">Detener 1</string>
+    <string name="detener_2">Detener 2</string>
+    <string name="reiniciar1">Reiniciar 1</string>
+    <string name="reiniciar2">Reiniciar 2</string>
+    <string name="avanzaTexto"> se detuvo progress bar %1$d ahora deten %2$s</string>
+
+    <plurals name="contador">
+        <item quantity="zero">%d/100 inicial</item>
+        <item quantity="other">%d/100 avanzando</item>
+
+    </plurals>
+</resources>
