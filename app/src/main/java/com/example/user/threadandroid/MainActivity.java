@@ -20,6 +20,9 @@ import android.widget.Toast;
 
 //comentario desde android studio2
 
+//comentario desde android studio3
+
+
 public class MainActivity extends AppCompatActivity {
 
     public static final int INCREMENTO = 10;
