@@ -13,6 +13,8 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
+//comentario por wilder
+
 public class MainActivity extends AppCompatActivity {
 
     public static final int INCREMENTO = 10;
