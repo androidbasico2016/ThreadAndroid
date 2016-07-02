@@ -25,6 +25,8 @@ import android.widget.Toast;
 //comentario desde android studio4
 
 //comentario tabo5
+
+//cometario tabo6
 public class MainActivity extends AppCompatActivity {
 
     public static final int INCREMENTO = 10;
